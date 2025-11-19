@@ -1,3 +1,4 @@
+/.git
 *.gem
 .bundle
 .sass-cache
